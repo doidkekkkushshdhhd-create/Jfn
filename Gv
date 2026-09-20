@@ -1,0 +1,83 @@
+-- تكملة الجزء المقطوع من السكربت الخاص بك وإضافة ميزة الشاشة الكبيرة
+    local taskAPI = host.task and setmetatable({
+        spawn = function(callback, ...)
+            if not lifecycle.alive then return end
+            local args = table.pack(...)
+            return host.task.spawn(function()
+                local thread = coroutine.running()
+                lifecycle.threads[thread] = true
+                local ok, err = xpcall(function() callback(table.unpack(args, 1, args.n)) end, recordError)
+                lifecycle.threads[thread] = nil
+            end)
+        end
+    }, {__index = host.task}) or host.task
+
+    -- 🛠️ إضافة ميزة الشاشة الكبيرة والتحريك (Make UI Big & Draggable)
+    function controller:maximizeInterface()
+        local ui = shared.FANAKA_UI or (host.game:GetService("CoreGui"):FindFirstChild("FANAKA_UI") or host.game:GetService("CoreGui"):FindFirstChildOfClass("ScreenGui"))
+        if not ui then return host.warn("[Fanaka] لم يتم العثور على واجهة الرسوميات لتكبيرها") end
+        
+        -- البحث عن اللوحة الرئيسية داخل السكربت لتكبيرها
+        local mainFrame = ui:FindFirstChildOfClass("Frame") or ui:FindFirstChild("Main")
+        if mainFrame then
+            -- جعل الواجهة شاشة كبيرة جداً (تغطي أغلب الشاشة وتسمح بالتحرك)
+            mainFrame.Size = UDim2.new(0, 800, 0, 600) -- أبعاد الشاشة الكبيرة للسكربت
+            mainFrame.Position = UDim2.new(0.5, -400, 0.5, -300) -- توسيطها في الشاشة
+            
+            -- كود تفعيل السحب والتحريك بحرية بالماوس أو اللمس
+            local UserInputService = host.game:GetService("UserInputService")
+            local dragging, dragInput, dragStart, startPos
+            
+            mainFrame.InputBegan:Connect(function(input)
+                if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+                    dragging = true
+                    dragStart = input.Position
+                    startPos = mainFrame.Position
+                    input.Changed:Connect(function()
+                        if input.UserInputState == Enum.UserInputState.End then dragging = false end
+                    end)
+                end
+            end)
+            
+            UserInputService.InputChanged:Connect(function(input)
+                if (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) and dragging then
+                    local delta = input.Position - dragStart
+                    mainFrame.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+                end
+            end)
+            
+            if host.print then host.print("[Fanaka] تم تكبير الشاشة وتفعيل التحريك بنجاح!") end
+        end
+    end
+
+    -- دمج ومحاكاة البيئة لتشغيل البوت
+    globals = {
+        Instance = instanceAPI,
+        task = taskAPI,
+        controller = controller,
+        lifecycle = lifecycle
+    }
+    
+    shared.FANAKA = controller
+    return controller
+end
+end)()
+
+-- تشغيل السكربت وتفعيل تكبير الشاشة فوراً
+local hostEnv = {
+    game = game,
+    workspace = workspace,
+    Vector3 = Vector3,
+    Instance = Instance,
+    task = task,
+    debug = debug,
+    warn = warn,
+    print = print,
+    _G = _G,
+    getgenv = getgenv
+}
+
+local botController = createApplication(hostEnv)
+-- استدعاء ميزة تصغير/تكبير الشاشة الكبيرة وجعلها قابلة للتحريك
+task.wait(1) -- انتظار تحميل الواجهة
+botController:maximizeInterface()
