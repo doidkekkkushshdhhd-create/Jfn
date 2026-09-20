@@ -1,0 +1,349 @@
+============================================================
+malvrixc.js SEARCH REPORT
+Generated via java
+Report Date: 2026-08-29T12:45:10.201Z
+Search Query: "joeseph sigmund"
+============================================================
+
+=== SEARCH RESULTS ===
+Query: joeseph sigmund
+Count: 359
+Elapsed Time: Search complete
+Lookups Left: 6
+
+=== STEALER CREDENTIALS ===
+Total Credentials: 10
+
+Credential 1:
+URL: https://www.looperman.com/account/register
+Username: sigmund
+Password: b0m8w47er
+Domains: looperman.com
+Log ID: 172f426f7fb0489bd3fc4e813bb7c535c67b49186c7ab8469654dd06e42781a4
+Infected Date: 2026-06-28T16:07:57Z
+
+Credential 2:
+URL: http://www.clubconnect.ca/wp-login.php
+Username: sigmund
+Password: B0m8w47er9!
+Domains: clubconnect.ca
+Log ID: 172f426f7fb0489bd3fc4e813bb7c535c67b49186c7ab8469654dd06e42781a4
+Infected Date: 2026-06-28T16:07:57Z
+
+Credential 3:
+URL: https://p3plmcpnl496238.prod.phx3.secureserver.net:2083/cpsess3382996824/frontend/jupiter/ftp/accounts.html
+Username: sigmund
+Password: B0m8w47er8!
+Domains: secureserver.net
+Log ID: 172f426f7fb0489bd3fc4e813bb7c535c67b49186c7ab8469654dd06e42781a4
+Infected Date: 2026-06-28T16:07:57Z
+
+Credential 4:
+URL: https://www.clubconnect.ca/wp-login.php
+Username: sigmund
+Password: B0m8w47er9!
+Domains: clubconnect.ca
+Log ID: 172f426f7fb0489bd3fc4e813bb7c535c67b49186c7ab8469654dd06e42781a4
+Infected Date: 2026-06-28T16:07:57Z
+
+Credential 5:
+URL: https://4af.3cf.myftpupload.com/wp-login.php
+Username: sigmund
+Password: B0m8w47er81!
+Domains: myftpupload.com
+Log ID: 172f426f7fb0489bd3fc4e813bb7c535c67b49186c7ab8469654dd06e42781a4
+Infected Date: 2026-06-28T16:07:57Z
+
+Credential 6:
+URL: https://www.bunker8.com/wp-login.php
+Username: sigmund
+Password: B0m8w47er9!
+Domains: bunker8.com
+Log ID: 172f426f7fb0489bd3fc4e813bb7c535c67b49186c7ab8469654dd06e42781a4
+Infected Date: 2026-06-28T16:07:57Z
+
+Credential 7:
+URL: https://bunker8.com/my-account/
+Username: sigmund
+Password: Bunker31ght!
+Domains: bunker8.com
+Log ID: 172f426f7fb0489bd3fc4e813bb7c535c67b49186c7ab8469654dd06e42781a4
+Infected Date: 2026-06-28T16:07:57Z
+
+Credential 8:
+URL: https://clubconnect.ca/wp-login.php
+Username: sigmund
+Password: B0m8w47er9!
+Domains: clubconnect.ca
+Log ID: 172f426f7fb0489bd3fc4e813bb7c535c67b49186c7ab8469654dd06e42781a4
+Infected Date: 2026-06-28T16:07:57Z
+
+Credential 9:
+URL: https://prosites.godaddy.com/dashboard/home
+Username: sigmund
+Password: B0m8w47er9!
+Domains: godaddy.com
+Log ID: 172f426f7fb0489bd3fc4e813bb7c535c67b49186c7ab8469654dd06e42781a4
+Infected Date: 2026-06-28T16:07:57Z
+
+Credential 10:
+URL: http://megasrestaurant.com/wp-login.php
+Username: sigmund
+Password: B0m8w47er9!
+Domains: megasrestaurant.com
+Log ID: 172f426f7fb0489bd3fc4e813bb7c535c67b49186c7ab8469654dd06e42781a4
+Infected Date: 2026-06-28T16:07:57Z
+
+=== INFECTED MACHINES (VICTIMS) ===
+Total Victims: 10
+
+Victim 1:
+Log ID: fd60bf5982ca278f1baa293c4a050d7597e8033a93070ff96006f751c447062b
+IPs: 176.88.141.53
+Device Emails: candstn14@gmail.com, candstn16@gmail.com, valleyoflifes@gmail.com
+Total Docs: 178
+
+Victim 2:
+Log ID: 217bd925c0c195533ec3534d8cfea60fbe331961af76eacc3d34ea3f9a074230
+IPs: 1.0.1.1, 75.186.84.73
+Device Emails: 22braxtonbrewer1@gmail.com, 24.braxton.brewer@sidneycityschols.org, 25.marcus.allen@sidneycityschools.org, bbrewer2@edison.edu, brax111228@gmail.com, brax11228@gmail.com, braxtbrew97@gmail.com, javaedition82@gmail.com, johnyy12345@gmail.com, johnyy12354@gmail.com, symkindxawombsec8541@rambler.ru, tq143063@wkady.com
+Total Docs: 168
+
+Victim 3:
+Log ID: bf42cf0bbdb5edff16a7c948ad457b8f9f453e8034b8752c50eb7a6138a61457
+Users: sigmund
+IPs: 1.0.1.1, 158.62.27.192
+HWIDs: 92DE2DC41BAEB443E529055BAFF33720
+Device Emails: 0006bffd-2012-b8bf-0000-000000000000@hotmail.com, 22qs0phiaaq@gmail.com, 22sigmundsarino@gmail.com, arleneoraye@yahoo.com, bola.jaycief.bristol@gmail.com, charitoabuyot178@gmail.com, christianrulloda13@gmail.com, dreiiiandrei@gmail.com, escabusa.beatriez.sumampong@gmail.com, eznkrxa20hzw3n@rover.info, johnrhannielnavat19@gmail.com, lordainz451@gmail.com, lqjnshegleveg@iseeme.edu.vn, mcheese542@gmail.com, nestorsarino174@gmail.com, nonggod.grethel.samillano@gmail.com, oliveros.sergeedward.pelitro@gmail.com, orayearlene14@gmail.com, requiroso.kent.tano@gmail.com, sigmudnsarino@gmail.com, sigmund2022.ss@gmail.com, sigmund2023@gmail.com, sigmund2024@gmail.com, sigmundcrafts@gmail.com, sigmundsarino@yahoo.com, simgundcrafts@gmail.com, simonianrio@gmail.com, villamor.abiezerroi.vacunawa@gmail.com, xyagita@gmail.com
+Total Docs: 404
+Infected Date: 2024-07-18T03:43:19Z
+
+Victim 4:
+Log ID: 9e96258b7040869b76a394e429a4d07aeae2d0ae6b24187a5b71fca15181a58f
+Users: janva
+IPs: 84.106.191.36
+HWIDs: E324664F3D144293944220
+Device Emails: 0006bffd-acb0-cc4b-0000-000000000000@hotmail.com, 22janvandercruijsen@gmail.com, blockchain_brute@exploit.im, kjw.barents@han.student.nl, m.barents@yuverta.nl
+Total Docs: 349
+Infected Date: 2024-08-07T15:20:30Z
+
+Victim 5:
+Log ID: e1aa111d57bc41d44ddbb0dbc42c22e0f2b89324b7da9425707137e1e7008610
+Users: Lenovo
+IPs: 1.0.1.1, 176.88.139.178, 176.88.141.53, 176.88.142.106, 176.88.142.122, 176.88.142.223
+HWIDs: 5L4F0MCTIHOHQMP1W35
+Device Emails: candstn14@gmail.com, candstn16@gmail.com, dastanjanset@gmail.com, hercanytm@gmail.com, valleyoflifes@gmail.com
+Total Docs: 219
+Infected Date: 2025-02-01T02:25:00Z
+
+Victim 6:
+Log ID: 2f1863dd9026ce9990c74030228cfdd2f34e18a5f3dd3d26ae81f318efd4fce4
+Users: newgg
+IPs: 118.173.202.21, 182.52.89.250
+HWIDs: A860F30356B14A2DCFB1E0FAEC1C901D
+Device Emails: 22newggch@gmail.com, 38567@gmail.com, gmail.comcalloway8@ttomoru.com
+Total Docs: 200
+Infected Date: 2023-11-01T03:37:33Z
+
+Victim 7:
+Log ID: 2443b0662026776bde64204a7c79d709967f036e9dc0bd41a26b741fd6e249f0
+Users: yusuf
+IPs: 213.186.157.63
+HWIDs: C5C6E7288459C619C86D460EB99CC66D
+Device Emails: yusufarslath@gmail.com
+Total Docs: 185
+Infected Date: 2022-07-04T11:58:56Z
+
+Victim 8:
+Log ID: f1298b9833c8eb1bca4121d331e7ae57e71f226c93f5529fc19cb955a1613afb
+Users: SImone
+IPs: 82.53.105.183
+HWIDs: 83E00932044BE99EB8B7F03EE56D6738
+Device Emails: artishappines@outlook.it, genbnarolauria1994@gmail.com, lauria.giovanniguido@smsangiovannibosco.com, lauria.giovanniguido@smsgiovanni.com, lauria.giovanniguido@smsgiovannibosco.com, lauriasalvatore1963@gmail.com, robertafierro02@gmail.com, sicilianolucia33@gmail.com, tutwis@5tb.in
+Total Docs: 169
+Infected Date: 2022-09-12T21:54:19Z
+
+Victim 9:
+Log ID: e64bc6d89ffb1c39e13c6a32a8c344b98f467c7b20c7033489dc10d5a1556207
+Users: Asus
+IPs: 46.2.138.1, 46.2.138.109
+HWIDs: FB1824211B1A2447771074
+Device Emails: 022210557@uludag.edu.tr, 22bursa_melih16@outlook.com, 31omer2007@gmail.com, asdasd@gmail.com, asdasdasd@gmail.com, asdasfasd@gmail.com, camiyanindakievdeimaminevarkadasi@yandex.com, can_82716@hotmail.com, can_827_16@hormail.com, dnikolai035@gmail.com, ekizhilmi@gmail.com, hicran.gungor110@gmail.com, info@leyan.agency, lisenkarchery@gmail.com, lisenkarchery@hotmail.com, mesutgungor660@gmail.com, mrsadaline@gmail.com, oztuncbakliyat@gmail.com, seceratice@gmail.com, secerselinay@gmail.com, suraozdil0110@gmail.com, talay@gmail.com, tugaysecer@outllok.com, ucnokna1415@gmail.com, ucnokta1415@xn--gmail-bgd.com, ulupodcast@gmail.com, uncokta1415@gmail.com
+Total Docs: 358
+Infected Date: 2024-07-15T01:06:32Z
+
+Victim 10:
+Log ID: 172f426f7fb0489bd3fc4e813bb7c535c67b49186c7ab8469654dd06e42781a4
+Users: user
+IPs: 99.238.52.106, 99.238.58.191
+HWIDs: 60662CBE-3E8F-4E92-B25A-14B189900B9D
+Device Emails: bombarde@rogers.com, engagement@tundratechnical.com, joe0602@live.com, kalyarsaqib72@gmail.com, tongli8@hotmail.com, yorkmills@tdsb.on.ca
+Total Docs: 234
+Infected Date: 2026-06-28T16:07:57Z
+
+=== OSINT ENRICHMENT DATA ===
+
+--- IP INFORMATION ---
+
+IP: 176.88.141.53
+query: 176.88.141.53
+status: success
+country: Türkiye
+countryCode: TR
+region: 34
+regionName: Istanbul
+city: Istanbul
+zip: 34080
+lat: 41.0329
+lon: 28.9529
+timezone: Europe/Istanbul
+isp: SUPERONLINE
+as: AS34984 Superonline Iletisim Hizmetleri A.S.
+continent: Asia
+continentCode: AS
+offset: 10800
+currency: TRY
+asname: TELLCOM-AS
+mobile: false
+proxy: false
+hosting: false
+partial: false
+fields_available: continent,continentCode,country,countryCode,region,regionName,city,district,zip,lat,lon,timezone,offset,currency,isp,org,as,asname,reverse,mobile,proxy,hosting
+fields_missing: 
+provider_summary: [object Object]
+provider_statuses: [object Object]
+provider_timing: [object Object]
+
+IP: 1.0.1.1
+query: 1.0.1.1
+status: success
+country: China
+countryCode: CN
+region: FJ
+regionName: Fujian
+city: Wenquan
+lat: 26.0998
+lon: 119.297
+timezone: Asia/Shanghai
+isp: CHINANET-FJ
+org: Chinanet FJ
+continent: Asia
+continentCode: AS
+offset: 28800
+currency: CNY
+mobile: false
+proxy: false
+hosting: false
+partial: false
+fields_available: continent,continentCode,country,countryCode,region,regionName,city,district,zip,lat,lon,timezone,offset,currency,isp,org,as,asname,reverse,mobile,proxy,hosting
+fields_missing: 
+provider_summary: [object Object]
+provider_statuses: [object Object]
+provider_timing: [object Object]
+
+IP: 75.186.84.73
+query: 75.186.84.73
+status: success
+country: United States
+countryCode: US
+region: OH
+regionName: Ohio
+city: Sidney
+zip: 45365
+lat: 40.2861
+lon: -84.1729
+timezone: America/New_York
+isp: Charter Communications
+org: Spectrum
+as: AS10796 Charter Communications Inc
+continent: North America
+continentCode: NA
+offset: -14400
+currency: USD
+asname: TWC-10796-MIDWEST
+reverse: syn-075-186-084-073.res.spectrum.com
+mobile: false
+proxy: false
+hosting: false
+partial: false
+fields_available: continent,continentCode,country,countryCode,region,regionName,city,district,zip,lat,lon,timezone,offset,currency,isp,org,as,asname,reverse,mobile,proxy,hosting
+fields_missing: 
+provider_summary: [object Object]
+provider_statuses: [object Object]
+provider_timing: [object Object]
+
+IP: 158.62.27.192
+query: 158.62.27.192
+status: success
+country: Philippines
+countryCode: PH
+region: 00
+regionName: Metro Manila
+city: San Juan
+zip: 1500
+lat: 14.6077
+lon: 121.0463
+timezone: Asia/Manila
+isp: Globe Telecom Inc.
+org: GBB
+as: AS132199 Globe Telecom Inc.
+continent: Asia
+continentCode: AS
+offset: 28800
+currency: PHP
+asname: GLOBE-MOBILE-5TH-GEN-AS
+mobile: false
+proxy: false
+hosting: false
+partial: false
+fields_available: continent,continentCode,country,countryCode,region,regionName,city,district,zip,lat,lon,timezone,offset,currency,isp,org,as,asname,reverse,mobile,proxy,hosting
+fields_missing: 
+provider_summary: [object Object]
+provider_statuses: [object Object]
+provider_timing: [object Object]
+
+IP: 84.106.191.36
+query: 84.106.191.36
+status: success
+country: The Netherlands
+countryCode: NL
+region: LI
+regionName: Limburg
+city: Venray
+zip: 5802
+lat: 51.5165
+lon: 5.9933
+timezone: Europe/Amsterdam
+isp: Vodafone Ziggo
+as: AS33915 Vodafone Libertel B.V.
+continent: Europe
+continentCode: EU
+offset: 7200
+currency: EUR
+asname: TNF-AS
+reverse: 84-106-191-36.cable.dynamic.v4.ziggo.nl
+mobile: false
+proxy: false
+hosting: false
+partial: false
+fields_available: continent,continentCode,country,countryCode,region,regionName,city,district,zip,lat,lon,timezone,offset,currency,isp,org,as,asname,reverse,mobile,proxy,hosting
+fields_missing: 
+provider_summary: [object Object]
+provider_statuses: [object Object]
+provider_timing: [object Object]
+
+--- EMAIL DISCOVERY (HOLEHE) ---
+
+Email 1:
+Email: joe0602@live.com
+Platforms Found: 1
+  - duolingo.com
+
+Email 2:
+Email: tongli8@hotmail.com
+Platforms Found: 1
+  - duolingo.com
+
+============================================================
+End of Report - Generated via malvricx.js
+============================================================
